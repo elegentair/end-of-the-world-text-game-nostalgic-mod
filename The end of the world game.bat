@@ -8,6 +8,12 @@ echo msdos auto detected a game named end of the world text game
 pause
 cls
 echo ms dos is starting game
+pause
+cls
+echo loading
+pause
+echo loading completed
+pause
 echo license agreememt
 echo this game is not to be stolen 
 echo you may only edit for personal use
