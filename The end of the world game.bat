@@ -2,6 +2,12 @@
 color 1f
 :desktop
 title theend
+echo msdos is starting
+pause
+echo msdos auto detected a game named end of the world text game
+pause
+cls
+echo ms dos is starting game
 echo license agreememt
 echo this game is not to be stolen 
 echo you may only edit for personal use
